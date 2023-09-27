@@ -20,7 +20,8 @@ Athena – It is a serverless interactive query service that makes it easy to an
 
 QuickSight – It is a cloud-native business intelligence service that makes it easy to create interactive dashboards and reports.
 
-Process:
+
+## Process:
 -       Uploaded raw data on S3 bucket using shell.
 -       Created roles for the services and assigned policies thorough IAM.
 -       Coded a function to transform .json files to parquet using Lambda.
@@ -29,5 +30,3 @@ Process:
 -       Generated dashboard to visualize the data using QuickSight.
 
 This was an intermediate level project, and it was a great experience to get hands on practice with the current tools and technologies being used in data engineering.
-
-Stay tuned for more projects!
