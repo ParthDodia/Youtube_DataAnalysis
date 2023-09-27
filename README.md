@@ -8,10 +8,15 @@ I utilized Amazon Web Services (AWS) for storing, cleaning, and processing the d
  
 Services used in a nutshell:
 S3 - It can be used to store any type of data and is highly scalable and durable offering features such as object versioning and encryption.
+
 IAM - It allows you to create and manage different roles and policies that grant specific permissions to users and applications.
+
 Glue – It is a fully managed data integration service which can be used to create and run ETL jobs that extract data from various sources, transform it into a desired format, and load it into a target data store such as S3.
+
 Lambda – It is a serverless compute service that allows you to run code. Can also be used to automate data ingestion and data processing using triggers.
+
 Athena – It is a serverless interactive query service that makes it easy to analyze data stored in S3 using standard SQL.
+
 QuickSight – It is a cloud-native business intelligence service that makes it easy to create interactive dashboards and reports.
 
 Process:
