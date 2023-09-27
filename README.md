@@ -6,7 +6,8 @@ https://lnkd.in/epSNygcg
  
 I utilized Amazon Web Services (AWS) for storing, cleaning, and processing the data.
  
-Services used in a nutshell:
+## Services used in a nutshell:
+
 S3 - It can be used to store any type of data and is highly scalable and durable offering features such as object versioning and encryption.
 
 IAM - It allows you to create and manage different roles and policies that grant specific permissions to users and applications.
