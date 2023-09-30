@@ -34,5 +34,9 @@ This was an intermediate level project, and it was a great experience to get han
 ## Architecture:
 ![architecture](https://github.com/ParthDodia/Youtube_DataAnalysis/assets/88946343/df49dc05-427c-4ace-8e7e-899761acd67e)
 
+## Dashboard:
+
+![dashboard](https://github.com/ParthDodia/Youtube_DataAnalysis/assets/88946343/cee04adb-8305-4a8b-9bd1-055281ae3cdb)
+
 
 
