@@ -30,3 +30,9 @@ QuickSight – It is a cloud-native business intelligence service that makes it 
 -       Generated dashboard to visualize the data using QuickSight.
 
 This was an intermediate level project, and it was a great experience to get hands on practice with the current tools and technologies being used in data engineering.
+
+## Architecture:
+![architecture](https://github.com/ParthDodia/Youtube_DataAnalysis/assets/88946343/df49dc05-427c-4ace-8e7e-899761acd67e)
+
+
+
